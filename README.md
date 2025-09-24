@@ -1,4 +1,3 @@
-# Dhr-v20/README.md
 # 👋 Hello, I'm Dhruv Prajapati
 
 A passionate **Frontend Developer** specializing in creating dynamic, responsive, and user-friendly web interfaces. I love building engaging web experiences with a focus on clean code, intuitive design, and optimal performance.
