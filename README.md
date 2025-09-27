@@ -35,18 +35,26 @@ A passionate **Frontend Developer** specializing in creating dynamic, responsive
 
 Here are some examples of what I've worked on:
 
-* **[Project Name 1]**
-    * Developed a responsive e-commerce landing page using **React** and **Tailwind CSS**, implementing a smooth user experience and dynamic content loading.
-    * [Link to Live Demo 1](YourLiveDemoURL1) | [Link to Repository 1](YourRepoURL1)
+* **[My portfolio]**
+    * A responsive live website portfolio,using React.js. Presention my self in this website.
+    * [Link to Live Demo ](https://dhruvprajapati-portfolio.netlify.app/) | [Link to Repository 1](YourRepoURL1)
 
-* **[Project Name 2]**
-    * Built a real-time chat application with **Vue.js** and **Firebase**, integrating WebSockets for instant messaging and user authentication.
+* **[school management website]**
+    * A school management website design using html , css , Js and React,Js.
     * [Link to Live Demo 2](YourLiveDemoURL2) | [Link to Repository 2](YourRepoURL2)
 
-* **[Project Name 3]**
-    * Contributed to an open-source project, focusing on frontend performance enhancements and improving UI consistency across different devices.
+* **[DooPi.AI]**
+    * Gemini clone website model,with API integreted.
+    * [Link to Live Demo ](https://doopi.netlify.app/) | [Link to Repository 1](YourRepoURL3)
+      
+ 
+* **[DropMint.co]**
+    * Own Shopify website , with some products.
+    * [Link to Live Demo ](https://dropmint.co/)
+      
+* **[Singer-website]**
+    * Client project with responsive and informative website using React.js.
     * [Link to Repository 3](YourRepoURL3)
-
 ---
 
 ## 🎓Education & Learning  
@@ -59,8 +67,8 @@ Here are some examples of what I've worked on:
 ## 📬 Contact Me
 
 * **Email:** [dhruvprajapati20503@gmail.com]
-* **LinkedIn:** [Your LinkedIn Profile URL]
-* **Portfolio:** [Your Portfolio Website URL]
+* **LinkedIn:** [https://www.linkedin.com/in/dhruv-prajapati-9a4886250/]
+* **Portfolio:** [https://dhruvprajapati-portfolio.netlify.app/]
 
 ---
 
