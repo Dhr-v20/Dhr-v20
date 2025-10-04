@@ -37,24 +37,24 @@ Here are some examples of what I've worked on:
 
 * **[My portfolio]**
     * A responsive live website portfolio,using React.js. Presention my self in this website.
-    * [Link to Live Demo ](https://dhruvprajapati-portfolio.netlify.app/) | [Link to Repository 1](YourRepoURL1)
+    * [Link to Live Demo ](https://dhruvprajapati-portfolio.netlify.app/) | [Link to Repository 1](https://github.com/Dhr-v20/My-Portfolio)
 
 * **[school management website]**
     * A school management website design using html , css , Js and React,Js.
-    * [Link to Live Demo 2](YourLiveDemoURL2) | [Link to Repository 2](YourRepoURL2)
+    * [Link to Live Demo 2](https://wbsite2.netlify.app/) | [Link to Repository 2](https://github.com/Dhr-v20/website)
 
 * **[DooPi.AI]**
     * Gemini clone website model,with API integreted.
-    * [Link to Live Demo ](https://doopi.netlify.app/) | [Link to Repository 1](YourRepoURL3)
+    * [Link to Live Demo ](https://doopi.netlify.app/) | [Link to Repository 3](https://github.com/Dhr-v20/Doopi.AI)
       
  
 * **[DropMint.co]**
     * Own Shopify website , with some products.
-    * [Link to Live Demo ](https://dropmint.co/)
+    * [Link to Live Demo ](https://dropmint.co/) [Link to Repository 4](https://github.com/Dhr-v20/DropMint.git) 
       
 * **[Singer-website]**
     * Client project with responsive and informative website using React.js.
-    * [Link to Repository 3](YourRepoURL3)
+    * [Link to Live Demo ](https://virenprajapati.netlify.app/) [Link to Repository 5](https://github.com/Dhr-v20/Singer-site)
 ---
 
 ## 🎓Education & Learning  
